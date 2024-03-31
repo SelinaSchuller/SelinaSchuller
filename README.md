@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer honing my s
 - Favorite Web Language: **PHP**
 
 ## 🛠️ Tools & Frameworks
-- Favorite Tool: **.NET**
+- Favorite Framework: **.NET**
 
 ## 🌍 Location
 - From: **The Netherlands**
