@@ -1,4 +1,3 @@
-```md
 # Hello, I'm Selina! 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic software developer honing my skills at Curio Software Development in Breda. Here's a glimpse into my world:
@@ -29,6 +28,3 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer honing my s
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelinaSchuller&layout=compact&theme=radical)
-
-
-``
